@@ -1,0 +1,6 @@
+[submodule "openmrs-owa-dermatology"]
+	path = openmrs-owa-dermatology
+	url = https://github.com/dermatologist/openmrs-owa-dermatology.git
+[submodule "openmrs-module-dermatology"]
+	path = openmrs-module-dermatology
+	url = https://github.com/dermatologist/openmrs-module-dermatology.git
